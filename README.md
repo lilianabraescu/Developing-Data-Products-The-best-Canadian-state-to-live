@@ -1,4 +1,4 @@
-# Developing Data Products: The best Canadian state to live - based on the individual income
+# Developing Data Products: The best Canadian state to live, based on the individual income
 
 ### Background
 
@@ -9,7 +9,7 @@ This is an example of Shiny web app with associated supporting documentation, ai
 User can **Enter the desired salary**, and after hitting **Submit**, the dashboard will show number of tax filers per each province which obtained that salary. In addition, user can see other important information obtained from data manipulations: **Income per Source**, **Income per Range**, as well as three Key Performance Indicator (KPI), namely **Top Income Range**, **Total Number of Tax Filers**, top **Predicted Income** per source.
 
 
-#### Data
+### Data
 
 For this web app, data representing *Individual statistics by tax filing method for all returns filed, economic characteristics, 2014 tax year, Canada Revenue Agency* - recorded by the *Open Data Government of Canada* and released at 2018-06-27 (downloaded on January 25, 2019): https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110004601 were sorted, cleaned and manipulated.
 
@@ -30,7 +30,7 @@ Because subsettings are used in this study, find bellow some details about varia
 - **Average.Income** was used for building reactive output, in order to have a numeric value for income, which can be compared with salary inserted by the user.
 
 
-#### App Overwiew
+### App Overwiew
 
 - Both essential parts of a Shiny app: ui.R and server.R were build. They are available in the github repository.
 
@@ -45,3 +45,7 @@ Plot show that Ontario (ON) and Quebec (QC) are in the top for all income source
 - *What is the best Canadian state to live, if user enter $50,000 (by default) desired salary?*
 
 ![Income average larger than $50,000 (bottom)](/Users/lilianabraescu/_DataScience-JHU/Course9_Developing_Data_Products/Liliana_Project_Data_Products/fig.2_pitch.png)
+
+- *What is the best Canadian state to live, if user enter $110,000 desired salary?*
+
+![Income average larger than $110,000 (bottom)](/Users/lilianabraescu/_DataScience-JHU/Course9_Developing_Data_Products/Liliana_Project_Data_Products/fig.3_pitch.png)
