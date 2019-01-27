@@ -34,18 +34,5 @@ Because subsettings are used in this study, find bellow some details about varia
 
 - Both essential parts of a Shiny app: ui.R and server.R were build. They are available in the github repository.
 
-- Some screeshots of the app:
+- Pitch of the app can be found in repository and at http://rpubs.com/lilianabraescu/461710
 
-- *Income per Source* and *Income per Range* are plotted for all tax filers from Canada (2014 tax year), and the KPIs *Top Income Range*, *Total Number of Tax Filers*, top *Predicted Income* per source were computed.
-
-![Income per Source (left) & Income per Range (right)](/Users/lilianabraescu/_DataScience-JHU/Course9_Developing_Data_Products/Liliana_Project_Data_Products/fig.1_pitch.png)
-
-Plot show that Ontario (ON) and Quebec (QC) are in the top for all income sourcesm and all income ranges. 
-
-- *What is the best Canadian state to live, if user enter $50,000 (by default) desired salary?*
-
-![Income average larger than $50,000 (bottom)](/Users/lilianabraescu/_DataScience-JHU/Course9_Developing_Data_Products/Liliana_Project_Data_Products/fig.2_pitch.png)
-
-- *What is the best Canadian state to live, if user enter $110,000 desired salary?*
-
-![Income average larger than $110,000 (bottom)](/Users/lilianabraescu/_DataScience-JHU/Course9_Developing_Data_Products/Liliana_Project_Data_Products/fig.3_pitch.png)
