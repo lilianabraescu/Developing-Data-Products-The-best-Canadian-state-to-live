@@ -34,5 +34,5 @@ Because subsettings are used in this study, find bellow some details about varia
 
 - Both essential parts of a Shiny app: ui.R and server.R were build. They are available in the github repository.
 
-- Pitch of the app can be found in repository and at http://rpubs.com/lilianabraescu/461710
+- Pitch of the app can be found in repository and at http://rpubs.com/lilianabraescu/461715
 
