@@ -4,7 +4,7 @@
 
 This is an example of Shiny web app with associated supporting documentation, aiming to answer to the following question:
 
-**What is the best Canadian state to live, acording to the desired salary?**
+**What is the best Canadian state to live, according to the desired salary?**
 
 User can **Enter the desired salary**, and after hitting **Submit**, the dashboard will show number of tax filers per each province which obtained that salary. In addition, user can see other important information obtained from data manipulations: **Income per Source**, **Income per Range**, as well as three Key Performance Indicator (KPI), namely **Top Income Range**, **Total Number of Tax Filers**, top **Predicted Income** per source.
 
@@ -30,7 +30,7 @@ Because subsettings are used in this study, find bellow some details about varia
 - **Average.Income** was used for building reactive output, in order to have a numeric value for income, which can be compared with salary inserted by the user.
 
 
-### App Overwiew
+### App Overview
 
 - Both essential parts of a Shiny app: ui.R and server.R were build. They are available in the github repository.
 
