@@ -36,3 +36,5 @@ Because subsettings are used in this study, find bellow some details about varia
 
 - Pitch of the app can be found in repository and at http://rpubs.com/lilianabraescu/461715
 
+- Shinny application is available here https://lilianabraescu.shinyapps.io/liliana_app_files/
+
